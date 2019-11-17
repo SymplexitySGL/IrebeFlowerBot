@@ -323,8 +323,4 @@ def main():
 if __name__ == '__main__':
     # createmenu()
     buildstrains()
-    print(dkeybaord)
-    print(tkeybaord)
-
-
     main()
